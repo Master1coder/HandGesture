@@ -1,0 +1,14 @@
+p{
+    font-size: 25px;
+}
+.heading{
+    font-size: 25px;
+}
+body{
+    background-color: aqua;
+}
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border: 5px dashed black;
+}
